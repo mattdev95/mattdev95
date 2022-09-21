@@ -9,7 +9,7 @@ I’m currently completing my final year of Computing Science.
 
 ## 🧰 Programming Languages and Tools
 - Java, Javascript, Python and PHP
-- Helidon, React JS, Spring Boot and Flask
+- Helidon, React JS, Spring Boot and jQuery
 - IntelliJ, Visual Studio Code,  Maven, Liquibase, Postman, Jenkins and Docker
 - Postgres, Oracle relational database, MongoDB and MySQL
 - HTML, CSS, XML and JSON
