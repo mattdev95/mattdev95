@@ -6,8 +6,8 @@ I’m currently completing my final year of Computing Science.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be an artisan baker.
 
-🧰
-## Programming Languages and Tools
+
+## 🧰 Programming Languages and Tools
 - Java, Javascript, Python and PHP
 - Helidon, React JS, Spring Boot and Flask
 - IntelliJ, Visual Studio Code,  Maven, Liquibase, Postman, Jenkins and Docker
