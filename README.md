@@ -12,6 +12,7 @@ I’m currently completing my final year of Computing Science.
 - Helidon, React JS, Spring Boot and Flask
 - IntelliJ, Visual Studio Code,  Maven, Liquibase, Postman, Jenkins and Docker
 - Postgres, Oracle relational database, MongoDB and MySQL
+- HTML, CSS, XML and JSON
 
 
 
