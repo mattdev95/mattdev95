@@ -2,7 +2,7 @@
 
 I’m currently completing my final year of Computing Science.
 
-- 🌱 I’m currently learning Azure and planning a project with Spring Boot, React JS with TypeScript and Azure SQL database.
+- 🌱 I’m currently learning Azure and planning a project with Spring Boot, React JS with TypeScript and Azure SQL database deployed on Azure Kubernetes cluster.
 - ⚡ Fun fact: I used to be an artisan baker.
 - :calling: Contact me: https://www.linkedin.com/in/matthew-edwards-8aa092171/
 
