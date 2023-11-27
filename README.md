@@ -4,8 +4,8 @@
 - :calling: Contact me: https://www.linkedin.com/in/matthew-edwards-8aa092171/
 
 ## 🧰 Programming Languages and Tools
-- Java, Javascript, Python and PHP
-- Helidon, React JS, Spring Boot and jQuery
+- Java, Javascript, C# and Python
+- React JS, Spring Boot and .NET
 - IntelliJ, Visual Studio Code,  Maven, Liquibase, Postman, Jenkins and Docker
 - Postgres, Oracle relational database, MongoDB and MySQL
 - HTML, CSS, XML and JSON
